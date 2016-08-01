@@ -1,6 +1,6 @@
 <?php
 
-namespace FwsDevelopment;
+namespace SuperBuddy;
 
 use Intervention\Validation\Validator;
 
