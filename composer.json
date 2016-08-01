@@ -1,5 +1,5 @@
 {
-    "name": "fwsdevelopment/bicgenerator",
+    "name": "superbuddy/bicgenerator",
     "description": "Package to generate a bic code from a iban",
     "type": "library",
     "license": "MIT",
@@ -12,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "FwsDevelopment\\": "src/"
+        "SuperBuddy\\": "src/"
       }
     },
     "minimum-stability": "dev",
